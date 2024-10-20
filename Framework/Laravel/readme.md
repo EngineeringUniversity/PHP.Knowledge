@@ -1,0 +1,1 @@
+- [Laravel Creator talks PHP, Lambos, and VC](https://youtu.be/LoRc5A8QCmw)
