@@ -1,1 +1,2 @@
 - [Laravel Creator talks PHP, Lambos, and VC](https://youtu.be/LoRc5A8QCmw)
+- [I was too dumb for Laravel. Then they fixed it.](https://youtu.be/3dgUiF2a3pM)
